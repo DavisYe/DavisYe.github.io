@@ -5,11 +5,11 @@
 # Site
 title: DavisYe
 subtitle: ''
-description: ''
-keywords:
+description: 'Davis的博客'
+keywords: blog,hexo,theme,fluid,hexo-theme-fluid,hexo-theme
 author: Davis Ye
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -101,4 +101,6 @@ theme: fluid
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git 
+  repository: git@github.com:DavisYe/DavisYe.github.io.git
+  branch: master
