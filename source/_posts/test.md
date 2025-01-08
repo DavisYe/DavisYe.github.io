@@ -3,6 +3,8 @@ title: test
 date: 2025-01-06 00:56:06
 categories: Test
 tags: Test
+mermaid: true
+math: true
 ---
 # Test 内容
 
