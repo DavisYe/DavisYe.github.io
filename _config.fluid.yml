@@ -376,6 +376,14 @@ navbar:
     - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
     - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
     - { 
+        key: "订阅源", 
+        icon: "iconfont icon-rss" ,
+        submenu: [
+          { key: 'atom', link: "http://www.davisye.cn/atom.xml"},
+          { key: 'rss', link: "http://www.davisye.cn/rss.xml"}
+        ]
+      }
+    - { 
         key: "我的网页", 
         icon: "iconfont icon-Checklist" ,
         submenu: [

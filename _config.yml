@@ -104,3 +104,14 @@ deploy:
   type: git 
   repository: git@github.com:DavisYe/DavisYe.github.io.git
   branch: master
+
+# Feed
+feed:
+  enable: true
+  type: 
+    - atom 
+    - rss2
+  path: 
+    - atom.xml
+    - rss.xml
+  limit: 20
