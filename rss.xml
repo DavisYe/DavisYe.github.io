@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DavisYe</title>
+    <link>https://www.davisye.cn/</link>
+    
+    <atom:link href="https://www.davisye.cn/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>Davis的博客</description>
+    <pubDate>Wed, 08 Jan 2025 07:34:42 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>test</title>
+      <link>https://www.davisye.cn/2025/01/06/test/</link>
+      <guid>https://www.davisye.cn/2025/01/06/test/</guid>
+      <pubDate>Sun, 05 Jan 2025 16:56:06 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;Test-内容&quot;&gt;&lt;a href=&quot;#Test-内容&quot; class=&quot;headerlink&quot; title=&quot;Test 内容&quot;&gt;&lt;/a&gt;Test 内容&lt;/h1&gt;&lt;p&gt;官方指南&lt;a href=&quot;https://hexo.fluid-dev.com/&quot;&gt;https://</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="Test-内容"><a href="#Test-内容" class="headerlink" title="Test 内容"></a>Test 内容</h1><p>官方指南<a href="https://hexo.fluid-dev.com/">https://hexo.fluid-dev.com/</a></p><h2 id="Tag-测试"><a href="#Tag-测试" class="headerlink" title="Tag 测试"></a>Tag 测试</h2><div class="note note-primary">            <p>primary</p>          </div><div class="note note-secondary">            <p>secondary</p>          </div><div class="note note-success">            <p>success</p>          </div><div class="note note-danger">            <p>danger</p>          </div><div class="note note-warning">            <p>warning</p>          </div><div class="note note-info">            <p>info</p>          </div><div class="note note-light">            <p>light</p>          </div><h2 id="Mermaid-测试"><a href="#Mermaid-测试" class="headerlink" title="Mermaid 测试"></a>Mermaid 测试</h2><pre><code class=" mermaid">classDiagramClass01 &lt;|-- AveryLongClass : CoolClass03 *-- Class04Class05 o-- Class06Class07 .. Class08Class09 --&gt; C2 : Where am i?Class09 --* C3Class09 --|&gt; Class07Class07 : equals()Class07 : Object[] elementDataClass01 : size()Class01 : int chimpClass01 : int gorillaClass08 &lt;--&gt; C2: Cool label</code></pre><h2 id="LaTex-测试"><a href="#LaTex-测试" class="headerlink" title="LaTex 测试"></a>LaTex 测试</h2><p>$$<br>E&#x3D;mc^2<br>$$</p>]]></content:encoded>
+      
+      
+      <category domain="https://www.davisye.cn/categories/Test/">Test</category>
+      
+      
+      <category domain="https://www.davisye.cn/tags/Test/">Test</category>
+      
+      
+      <comments>https://www.davisye.cn/2025/01/06/test/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
