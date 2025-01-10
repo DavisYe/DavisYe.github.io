@@ -103,7 +103,7 @@ theme: fluid
 deploy:
   type: git 
   repository: git@github.com:DavisYe/DavisYe.github.io.git
-  branch: master
+  branch: deploy
 
 # Feed
 feed:
